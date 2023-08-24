@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻🐍 I am a Python Back-End developer<br>👨🏼‍🎓💻 I study computer engineering in KHU university<br>🇩🇯⚙️ I work with Django & Django REST Framework<br>🌶⚡️ I am also familiar with Flask and FastAPI<br>📖⚔️ I love learning new skills and facing challenges
+👨🏻‍💻🐍 I am a Python Back-End developer<br>👨🏼‍🎓💻 I study computer engineering in KHU university<br>🔧⚙️ I work with Django & Django REST Framework<br>🌶⚡️ I am also familiar with Flask and FastAPI<br>📖⚔️ I love learning new skills and facing challenges
 
 
 # 💻 Tech Stack:
